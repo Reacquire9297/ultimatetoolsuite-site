@@ -1,3 +1,4 @@
+layout: ../../layouts/ToolPageLayout.astro
 ---
 title: "UTM Builder"
 slug: "utm-builder"
