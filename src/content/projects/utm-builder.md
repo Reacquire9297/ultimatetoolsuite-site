@@ -1,10 +1,9 @@
-layout: ../../layouts/ToolPageLayout.astro
 ---
 title: "UTM Builder"
 slug: "utm-builder"
 category: "Marketing"
 description: "Easily build UTM links to track your campaigns."
-date: 2025-06-05
+date: "2025-06-05"
 draft: false
 layout: "../../layouts/ProjectLayout.astro"
 ---
@@ -21,4 +20,4 @@ UTM (Urchin Tracking Module) parameters help you track the effectiveness of mark
 
 ## Launch the Tool
 
-[Launch UTM Builder](/tools/utm-builder) <!-- or update this to actual tool path -->
+[Launch UTM Builder](/tools/utm-builder)
